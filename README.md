@@ -1,5 +1,3 @@
-### Proffy - Sua plataforma de estudos online
-
 <p align="center">
 <img src="https://github.com/vinicius015/proffy-nlw2/blob/master/github/logo.png" alt="Proffy" width="20%" />
 </p>
@@ -21,3 +19,5 @@ Realiza cadastro de alunos e professores
 * HTML
 * CSS
 * Javascript
+* Nodejs
+* SQLite
